@@ -1,0 +1,92 @@
+[
+    {
+        "Name":"item1",       
+        "ItemType":"Arm",
+        "ResourceID":"110004",
+        "ItemPositon":"Bag",        
+        "Count":2,
+        "Power":1,
+        "Speed":2,
+        "Health":3
+    },
+    {
+        "Name":"item1 (1)",     
+        "ItemType":"Ring",
+        "ResourceID":"110005",
+        "ItemPositon":"Bag",
+        "Count":1,
+        "Power":4,
+        "Speed":5,
+        "Health":6
+    },
+    {
+        "Name":"item1 (2)",       
+        "ItemType":"Necklace",
+        "ResourceID":"110006",
+        "Count":1,
+        "ItemPositon":"Bag",
+        "Power":7,
+        "Speed":8,
+        "Health":9
+    },
+
+     {
+        "Name":"item1 (3)",      
+        "ItemType":"Arm",
+        "ResourceID":"110004",
+		"ItemPositon":"Bag",
+		"Count":1,       
+        "Power":11,
+        "Speed":12,
+        "Health":13
+    },
+     {
+        "Name":"item1 (4)",       
+        "ItemType":"Ring",
+        "ResourceID":"110005",
+		"ItemPositon":"Bag",
+		"Count":1,       
+        "Power":14,
+        "Speed":15,
+        "Health":16
+    },
+     {
+        "Name":"item1 (5)",   
+        "ItemType":"Necklace",
+        "Count":1,
+		"ItemPositon":"Bag",
+        "ResourceID":"110006",       
+        "Power":17,
+        "Speed":18,
+        "Health":19
+    },  {
+        "Name":"equip1",       
+        "ResourceID":"110007",
+        "ItemType":"Arm",
+		"ItemPositon":"Equip",
+		"Count":1,       
+        "Power":21,
+        "Speed":22,
+        "Health":23
+    },
+    {
+        "Name":"equip2",
+       "ItemPositon":"Equip",
+		"Count":1,       
+        "ResourceID":"110008",
+        "ItemType":"Ring",
+        "Power":24,
+        "Speed":25,
+        "Health":26
+    },
+    {
+        "Name":"equip3",
+		"ItemPositon":"Equip",
+		"Count":1,       
+        "ResourceID":"110009",
+        "ItemType":"Necklace",
+        "Power":27,
+        "Speed":28,
+        "Health":29
+    }
+]
